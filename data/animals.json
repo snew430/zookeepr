@@ -126,6 +126,17 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Bob",
+      "species": "Gorilla",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "13"
     }
   ]
 }
